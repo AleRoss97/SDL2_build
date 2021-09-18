@@ -1,3 +1,9 @@
+```
+build_sdl.bat - build the selected SDL2 files into the object files repository
+build.bat - build a main file into the object files repository
+link.bat - link all files in the object files repository
+```
+
 # SDL2_build
 Scripts for building SDL2 source code with vanilla GCC.
 It's actually really easy to build SDL2 source code with the GCC compiler only.
